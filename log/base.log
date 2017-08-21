@@ -1,0 +1,125 @@
+2017-08-21 11:06:47,162 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplicationTests on MaoL-PC with PID 20056 (started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 11:06:47,169 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 11:06:47,170 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 11:06:50,689 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@27ffd9f8
+2017-08-21 11:06:52,169 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplicationTests in 5.661 seconds (JVM running for 6.31)
+2017-08-21 11:39:05,490 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 19508 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 11:39:05,491 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 11:39:05,492 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 11:39:08,069 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-21 11:39:09,587 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@2c9fdb64
+2017-08-21 11:39:10,663 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 5.428 seconds (JVM running for 5.836)
+2017-08-21 14:26:32,737 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 25520 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 14:26:32,742 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 14:26:32,742 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 14:26:35,448 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-21 14:26:37,150 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@6207145c
+2017-08-21 14:26:38,648 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 6.209 seconds (JVM running for 6.822)
+2017-08-21 14:26:53,789 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:26:53,813 DEBUG (DataController.java:44)- q1 开始
+2017-08-21 14:26:53,813 DEBUG (DataController.java:45)- q1 接收参数address=null
+2017-08-21 14:26:53,985 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:27:02,286 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:27:12,862 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:29:26,586 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:31:03,132 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:31:03,239 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:31:27,803 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:40:50,390 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 14:41:07,183 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:14:02,138 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:24:36,979 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 28848 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 15:24:36,981 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 15:24:36,981 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 15:24:38,843 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-21 15:24:40,197 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@71531dd7
+2017-08-21 15:24:41,356 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 4.616 seconds (JVM running for 5.007)
+2017-08-21 15:24:52,066 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:24:52,249 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:03,247 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:03,279 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:04,908 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:04,945 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:05,378 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:05,399 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:05,823 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:05,875 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:27,040 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:27,076 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:27,605 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:27,631 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:27,889 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:27,906 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:28,145 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:28,162 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:28,402 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:28,422 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:25:29,712 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:26:48,800 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplicationTests on MaoL-PC with PID 29612 (started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 15:26:48,800 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 15:26:48,800 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 15:26:51,660 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@207dd1b7
+2017-08-21 15:26:52,998 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplicationTests in 4.463 seconds (JVM running for 5.096)
+2017-08-21 15:32:34,080 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 29496 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 15:32:34,081 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 15:32:34,082 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 15:32:35,946 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-21 15:32:37,253 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@1c3b6963
+2017-08-21 15:32:38,292 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 4.448 seconds (JVM running for 4.77)
+2017-08-21 15:32:40,769 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:40:56,037 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 29664 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 15:40:56,040 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 15:40:56,041 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 15:41:05,817 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-21 15:41:07,378 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@5939f047
+2017-08-21 15:41:17,679 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 21.91 seconds (JVM running for 22.492)
+2017-08-21 15:41:24,484 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:42:21,122 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:45:01,719 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:45:29,163 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 15:45:48,252 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:20:54,673 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:24:38,856 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:29:54,493 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:45,200 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:46,466 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:46,827 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:47,082 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:47,320 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:47,545 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:49,514 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:49,926 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:50,183 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:50,439 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:31:50,621 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:33:04,276 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:33:04,307 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:33:40,154 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:34:54,536 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:34:54,549 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:35:26,444 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 30548 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 16:35:26,446 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 16:35:26,446 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 16:35:28,431 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-21 16:35:29,831 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@39133244
+2017-08-21 16:35:30,928 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 4.735 seconds (JVM running for 5.132)
+2017-08-21 16:35:40,660 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:35:40,692 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:43:03,312 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:47:50,591 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 32000 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 16:47:50,592 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 16:47:50,593 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 16:47:52,666 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-21 16:47:53,953 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@3869a6e5
+2017-08-21 16:47:54,999 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 4.644 seconds (JVM running for 4.987)
+2017-08-21 16:47:57,658 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:53:18,824 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 31808 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-21 16:53:18,827 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-21 16:53:18,827 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-21 16:53:24,483 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-21 16:53:26,189 INFO (WebSocketTest.java:77)- init:class com.example.websocket.WebSocketTest com.example.websocket.WebSocketTest@5c9e3d01
+2017-08-21 16:53:27,933 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 9.395 seconds (JVM running for 10.016)
+2017-08-21 16:53:30,195 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:56:01,224 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:56:53,315 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter
+2017-08-21 16:56:53,351 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter

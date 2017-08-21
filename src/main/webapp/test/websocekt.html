@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="/libs/jquery/jquery-3.2.1.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("#btn1").click(function(){
+   $("#firstname").val($("#firstname1").val());
+  });
+
+});
+</script>
+</head>
+<body>
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+
+<div style="color:#00FF00">
+  <h3>This is a header</h3>
+  <p>This is a paragraph.</p>
+</div>
+
+
+<form>
+名：
+<input type="text" name="firstname" id="firstname">
+<br />
+姓：
+<input type="text" name="lastname" id="lastname">
+</form>
+<p/>
+<form>
+名：
+<input type="text" name="firstname1" id="firstname1">
+<br />
+姓：
+<input type="text" name="lastname1" id="lastname1">
+<br />
+<input type="button" id="btn1" value="copy">
+</form>
+
+</body>
+</html>

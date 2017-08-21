@@ -1,0 +1,9 @@
+2017-08-01 12:25:14,820 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 32624 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-01 12:25:14,824 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-01 12:25:14,824 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-01 12:25:18,145 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.501 seconds (JVM running for 3.831)
+2017-08-01 18:25:48,903 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 3236 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-01 18:25:48,908 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-01 18:25:48,909 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-01 18:25:53,077 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 4.384 seconds (JVM running for 13.807)
+2017-08-01 18:26:02,641 DEBUG (DataController.java:74)- updatePerson 开始

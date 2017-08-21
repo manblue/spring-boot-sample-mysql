@@ -1,0 +1,5 @@
+2017-08-04 19:28:29,900 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 31140 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-08-04 19:28:29,903 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-04 19:28:29,903 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-04 19:28:31,569 INFO (TestFilter.java:24)- init TestFilter.init
+2017-08-04 19:28:33,573 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.898 seconds (JVM running for 4.368)

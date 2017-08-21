@@ -1,0 +1,105 @@
+2017-07-31 15:40:28,336 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 32548 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 15:40:28,341 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 15:40:28,342 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 15:50:07,923 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 31792 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 15:50:07,925 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 15:50:07,925 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 15:54:05,115 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 34048 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 15:54:05,117 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 15:54:05,117 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 15:55:50,429 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 34824 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 15:55:50,431 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 15:55:50,431 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 15:57:34,083 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 29824 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 15:57:34,085 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 15:57:34,085 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:00:27,998 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 17592 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:00:28,000 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:00:28,000 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:03:42,334 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 35308 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:03:42,336 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:03:42,336 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:17:47,066 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 21192 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:17:47,068 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:17:47,069 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:25:25,370 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 35852 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:25:25,371 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:25:25,372 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:27:13,337 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 33592 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:27:13,339 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:27:13,339 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:36:40,262 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 4796 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:36:40,263 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:36:40,264 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:42:14,866 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 26200 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:42:14,869 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:42:14,869 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:42:18,027 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.357 seconds (JVM running for 3.727)
+2017-07-31 16:42:39,160 DEBUG (HellowController.java:23)- Visit hello!
+2017-07-31 16:44:14,013 DEBUG (DataController.java:29)- save 开始
+2017-07-31 16:46:57,358 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 29464 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:46:57,360 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:46:57,360 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:47:01,048 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.865 seconds (JVM running for 4.203)
+2017-07-31 16:47:12,361 DEBUG (DataController.java:29)- save 开始
+2017-07-31 16:51:08,649 DEBUG (DataController.java:29)- save 开始
+2017-07-31 16:51:31,244 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 35492 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 16:51:31,246 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 16:51:31,246 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 16:51:34,726 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.66 seconds (JVM running for 4.009)
+2017-07-31 16:51:38,088 DEBUG (DataController.java:29)- save 开始
+2017-07-31 16:58:04,984 DEBUG (DataController.java:29)- save 开始
+2017-07-31 16:58:05,011 DEBUG (DataController.java:31)- save 结束
+2017-07-31 17:00:25,856 DEBUG (DataController.java:29)- save 开始
+2017-07-31 17:00:25,863 DEBUG (DataController.java:31)- save 结束
+2017-07-31 17:00:35,792 DEBUG (DataController.java:29)- save 开始
+2017-07-31 17:01:05,662 DEBUG (DataController.java:29)- save 开始
+2017-07-31 17:01:05,672 DEBUG (DataController.java:31)- save 结束
+2017-07-31 17:01:23,875 DEBUG (DataController.java:29)- save 开始
+2017-07-31 17:01:23,880 DEBUG (DataController.java:31)- save 结束
+2017-07-31 17:01:28,588 DEBUG (DataController.java:29)- save 开始
+2017-07-31 17:01:28,593 DEBUG (DataController.java:31)- save 结束
+2017-07-31 17:01:45,741 DEBUG (DataController.java:37)- q1 开始
+2017-07-31 17:01:45,741 DEBUG (DataController.java:38)- q1 接收参数address=北京
+2017-07-31 17:03:20,146 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 33800 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 17:03:20,148 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 17:03:20,148 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 17:03:23,560 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.609 seconds (JVM running for 3.964)
+2017-07-31 17:03:27,859 DEBUG (DataController.java:37)- q1 开始
+2017-07-31 17:03:27,860 DEBUG (DataController.java:38)- q1 接收参数address=北京
+2017-07-31 17:05:08,472 DEBUG (DataController.java:59)- sort 开始
+2017-07-31 17:05:33,974 DEBUG (DataController.java:66)- page 开始
+2017-07-31 17:06:42,883 DEBUG (DataController.java:52)- q3 开始
+2017-07-31 17:06:42,883 DEBUG (DataController.java:53)- q3接收参数name=aa,address=北京
+2017-07-31 17:12:49,863 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 30284 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 17:12:49,865 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 17:12:49,865 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 17:14:25,914 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 20836 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 17:14:25,916 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 17:14:25,916 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 17:14:29,374 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.632 seconds (JVM running for 3.963)
+2017-07-31 17:14:35,385 DEBUG (DataController.java:53)- q3 开始
+2017-07-31 17:14:35,385 DEBUG (DataController.java:54)- q3接收参数name=aa,address=北京
+2017-07-31 17:15:21,032 DEBUG (DataController.java:74)- updatePerson 开始
+2017-07-31 17:17:15,278 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 32624 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 17:17:15,280 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 17:17:15,280 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 17:17:18,593 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.498 seconds (JVM running for 3.843)
+2017-07-31 17:17:29,478 DEBUG (DataController.java:53)- q3 开始
+2017-07-31 17:17:29,478 DEBUG (DataController.java:54)- q3接收参数name=aa,address=北京
+2017-07-31 17:17:36,669 DEBUG (DataController.java:74)- updatePerson 开始
+2017-07-31 17:18:39,464 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 35736 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 17:18:39,466 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 17:18:39,467 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 17:18:42,875 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.599 seconds (JVM running for 3.939)
+2017-07-31 17:18:45,860 DEBUG (DataController.java:74)- updatePerson 开始
+2017-07-31 17:19:40,892 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 31640 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 17:19:40,894 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 17:19:40,894 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 17:19:44,311 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.597 seconds (JVM running for 3.952)
+2017-07-31 17:19:47,392 DEBUG (DataController.java:74)- updatePerson 开始
+2017-07-31 17:21:19,986 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on MaoL-PC with PID 34252 (D:\maolong\DEV\demo\spring-boot-sample-mysql\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-mysql)
+2017-07-31 17:21:19,988 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-31 17:21:19,988 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-31 17:21:23,388 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 3.587 seconds (JVM running for 3.931)
+2017-07-31 17:21:29,070 DEBUG (DataController.java:74)- updatePerson 开始
