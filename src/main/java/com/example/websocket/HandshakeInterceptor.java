@@ -24,8 +24,8 @@ public class HandshakeInterceptor extends HttpSessionHandshakeInterceptor {
             request.getHeaders().set("Sec-WebSocket-Extensions", "permessage-deflate");
         }
         
-		logger.info("{} before Handshake {} host:{} port:{}", HandshakeInterceptor.class,this.toString(),
-				request.getRemoteAddress().getHostString(),request.getRemoteAddress().getPort());
+//		logger.info("{} before Handshake {} host:{} port:{}", HandshakeInterceptor.class,this.toString(),
+//				request.getRemoteAddress().getHostString(),request.getRemoteAddress().getPort());
 
 		return super.beforeHandshake(request, response, wsHandler, attributes);
 	}

@@ -15,10 +15,11 @@ Welcome<br/><input id="text" type="text"/>
 </body>
 <script type="text/javascript">
 var websocket = null;
+var url = 'ws://192.168.0.126:8088/webSocket/count';
+
 //判断当前浏览器是否支持WebSocket
 if ('WebSocket' in window) {
 //var url = 'ws://'+window.location.host+'/webSocket/count';
-var url = 'ws://www.test.com/webSocket/count';
 
 websocket = new WebSocket(url);
 }
@@ -61,10 +62,11 @@ websocket.send(message);
 
 var str = "这个是测试用的范例文字 ";
 var seq = 0;
-var second=4000; //间隔时间1秒钟
+var second=500; //间隔时间1秒钟
 function scroll() {
-seq++;
-websocket.send(str + seq);
+//seq++;
+//websocket.send(str + seq);
+websocket = new WebSocket(url)
 }
 
 </script>

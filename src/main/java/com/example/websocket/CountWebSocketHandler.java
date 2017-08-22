@@ -24,13 +24,13 @@ public class CountWebSocketHandler extends TextWebSocketHandler {
 			WebSocketMessage<?> message) throws Exception {
 		// TODO Auto-generated method stub
 		super.handleMessage(session, message);
-		logger.info("new msg[handleMessage] sessionId:{} msg:{}", session.getId(),message.getPayload());
+//		logger.info("new msg[handleMessage] sessionId:{} msg:{}", session.getId(),message.getPayload());
 	}
 	
 	@Override
 	protected void handleTextMessage(WebSocketSession session,
 			TextMessage message) throws Exception {
-		logger.info("new msg[handleTextMessage] sessionId:{} msg:{}", session.getId(),message.getPayload());
+//		logger.info("new msg[handleTextMessage] sessionId:{} msg:{}", session.getId(),message.getPayload());
 		for (WebSocketSession ws : webSocketMap.values()) {
 			try {
 				ws.sendMessage(message);
@@ -45,7 +45,8 @@ public class CountWebSocketHandler extends TextWebSocketHandler {
 			CloseStatus status) throws Exception {
 		// TODO Auto-generated method stub
 		long num = subOnlineCount();
-		logger.info("有一连接关闭sessionId:{} code:{} reason:{}！当前在线人数为:{}",session.getId(),status.getCode(),status.getReason(),num);
+		logger.info("有一连接关闭sessionId:{} [host:{} port:{}] code:{} reason:{}！当前在线人数为:{}",session.getId(),
+				session.getRemoteAddress().getHostString(),session.getRemoteAddress().getPort(),status.getCode(),status.getReason(),num);
 		webSocketMap.remove(session.getRemoteAddress().getHostString()+":"+session.getRemoteAddress().getPort());
 		super.afterConnectionClosed(session, status);
 	}

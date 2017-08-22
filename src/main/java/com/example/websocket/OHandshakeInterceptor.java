@@ -19,8 +19,8 @@ public class OHandshakeInterceptor extends OriginHandshakeInterceptor {
 			Map<String, Object> attributes) throws Exception {
 		// TODO Auto-generated method stub
 //		return super.beforeHandshake(request, response, wsHandler, attributes);
-		logger.info("{} before Handshake {} host:{} port:{}", OHandshakeInterceptor.class,this.toString(),
-				request.getRemoteAddress().getHostString(),request.getRemoteAddress().getPort());
+//		logger.info("{} before Handshake {} host:{} port:{}", OHandshakeInterceptor.class,this.toString(),
+//				request.getRemoteAddress().getHostString(),request.getRemoteAddress().getPort());
 		return true;
 	}
 }
